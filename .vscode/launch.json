@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/Avazxon94/my-first-portfolio-in-react.git",
+            "request": "launch",
+            "url": "https://github.com/Avazxon94/my-first-portfolio-in-react.git"
+        }
+    ]
+}
