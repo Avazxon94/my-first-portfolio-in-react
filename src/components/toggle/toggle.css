@@ -29,12 +29,12 @@
 
 @media screen and (min-width: 1360px) {
     .t {
-        right: 12%;
+        right: 2%;
     }
 }
 
 @media screen and (max-width: 1024px) {
     .t {
-        right: 12%;
+        right: 5%;
     }
 }

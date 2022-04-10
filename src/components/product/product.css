@@ -1,3 +1,10 @@
+.p-block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: wrap;
+}
+
 .p {
     width: 30%;
     height: 38vh;

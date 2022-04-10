@@ -1,16 +1,16 @@
 export const products = [{
         id: 1,
-        img: './assets/image/mimino.png',
+        img: 'https://ibb.co/k6k5Q7F',
         link: 'https://miminoo.herokuapp.com/mimino/index.html',
     },
     {
         id: 2,
-        img: './assets/image/heroku.png',
+        img: 'https://ibb.co/k6k5Q7F',
         link: 'https://miminoo.herokuapp.com/nash/Index.html',
     },
     {
         id: 3,
-        img: './assets/image/mimino.png',
+        img: 'https://ibb.co/k6k5Q7F',
         link: 'https://github.com/Avazxon94',
     },
     {

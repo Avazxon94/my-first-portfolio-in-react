@@ -18,18 +18,12 @@ function App() {
                 color: darkMode && "white"
             }
         } >
-        <
-        Toggle / >
-        <
-        Intro / >
-        <
-        About / >
-        <
-        Productlist / >
-        <
-        Contact / >
-        <
-        /div>
+        <Toggle />
+        <Intro />
+        <About />
+        <Productlist />
+        <Contact />
+        </div>
     );
 }
 

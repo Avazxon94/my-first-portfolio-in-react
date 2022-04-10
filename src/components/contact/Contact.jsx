@@ -54,7 +54,7 @@ const Contact = () => {
                     <b>What's your story?</b> Get in touch. Always available for freelancing in the right projects comes along me. 
                 </div>
                 <form action="" ref={formRef} onSubmit={handleSubmit}>
-                <   input style={{background: darkMode && "#333" , color: darkMode && "white"}} name='user_name' type="text" placeholder='Name' />
+                <   input style={{background: darkMode && "#333" , color: darkMode && "white"}} name='user_name' type="text" placeholder='Name'/>
                     <input style={{background: darkMode && "#333", color: darkMode && "white"}} name='user_subject' type="text" placeholder='Subject' />
                     <input style={{background: darkMode && "#333", color: darkMode && "white"}} name='user_email' type="text" placeholder='Email' />
                     <textarea style={{background: darkMode && "#333" , color: darkMode && "white"}} name="message" id="message" cols="30" rows="10" placeholder='Message'></textarea>
